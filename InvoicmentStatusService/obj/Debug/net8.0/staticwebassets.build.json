@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cl5rrFONl7y6rUkflMENWUJqWvEltzfzS0aFazT5Vtg=",
+  "Source": "InvoicmentStatusService",
+  "BasePath": "_content/InvoicmentStatusService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

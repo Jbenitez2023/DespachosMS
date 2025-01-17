@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UmHXh3ejiIb+mrgSQyPmfX9kkknoVJWPVVUMYg1ZWVQ=",
+  "Source": "ClientService",
+  "BasePath": "_content/ClientService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

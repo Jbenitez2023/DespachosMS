@@ -1,0 +1,49 @@
+services:
+  client-service:
+    build: 
+      context: ./ClientService
+    ports:
+      - "8001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPClients;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;
+  operationtype-service:
+    build: 
+      context: ./OperationTypeService
+    ports:
+      - "8002:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPOperationTypes;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;
+  tipopago-service:
+    build: 
+      context: ./TipoPagosService
+    ports:
+      - "8003:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPPayTypes;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;
+  invoicementstatus-service:
+    build: 
+      context: ./InvoicmentStatusService
+    ports:
+      - "8004:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPInvoicementStatus;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;
+  invoicementtype-service:
+    build: 
+      context: ./InvoicementTypeService
+    ports:
+      - "8005:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPInvoicementTypes;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;
+  accountingtype-service:
+    build: 
+      context: ./AccountingconceptService
+    ports:
+      - "8006:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__CMPContext=Data Source=192.168.1.229;Initial Catalog=CMPAccountingConcept;Persist Security Info=False;TrustServerCertificate=True; User=sa ;Password=sa.13418;

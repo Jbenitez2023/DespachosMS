@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WEB\\DespachosMs\\OperationTypeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\controllers\\operationtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:controllers\\operationtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|c:\\web\\despachosms\\operationtypeservice\\data\\operationtypecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA81A5-B1BE-4025-B8B8-2385FF6C18DF}|OperationTypeService.csproj|solutionrelative:data\\operationtypecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T10:42:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:27:16.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T10:25:19.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperationTypeController.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\Controllers\\OperationTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OperationTypeController.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\Controllers\\OperationTypeController.cs",
+              "RelativeToolTip": "Controllers\\OperationTypeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:09:20.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperProfile.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:53:26.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationTypeContext.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\OperationTypeService\\Data\\OperationTypeContext.cs",
+              "RelativeDocumentMoniker": "Data\\OperationTypeContext.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\OperationTypeService\\Data\\OperationTypeContext.cs",
+              "RelativeToolTip": "Data\\OperationTypeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:50:06.6Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

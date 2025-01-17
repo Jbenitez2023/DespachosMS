@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9yg0ktdhUZbd154Rg404gzh+NLDjA/KXiFIyySSN/Yk=",
+  "Source": "OperationTypeService",
+  "BasePath": "_content/OperationTypeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

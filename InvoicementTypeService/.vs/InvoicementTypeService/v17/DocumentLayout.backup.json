@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\controllers\\invoicementtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:controllers\\invoicementtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\repositories\\invoicementtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:repositories\\invoicementtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\data\\invoicementtypecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:data\\invoicementtypecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|c:\\web\\despachosms\\invoicementtypeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E8A41C-526D-4F10-933E-ED90A37CB710}|InvoicementTypeService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T10:41:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicementTypeController.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Controllers\\InvoicementTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoicementTypeController.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Controllers\\InvoicementTypeController.cs",
+              "RelativeToolTip": "Controllers\\InvoicementTypeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:38:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoicementTypeRepository.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Repositories\\InvoicementTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InvoicementTypeRepository.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Repositories\\InvoicementTypeRepository.cs",
+              "RelativeToolTip": "Repositories\\InvoicementTypeRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:37:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "invoicementTypeContext.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Data\\invoicementTypeContext.cs",
+              "RelativeDocumentMoniker": "Data\\invoicementTypeContext.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Data\\invoicementTypeContext.cs",
+              "RelativeToolTip": "Data\\invoicementTypeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:33:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T10:27:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\InvoicementTypeService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:26:15.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

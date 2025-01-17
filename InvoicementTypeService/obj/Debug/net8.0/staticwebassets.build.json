@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "297ZT3UupKabGYvBvGIP7/ifq1gF8H+tpGBEcUPpMwg=",
+  "Source": "InvoicementTypeService",
+  "BasePath": "_content/InvoicementTypeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

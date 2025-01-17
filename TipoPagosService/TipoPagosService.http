@@ -1,0 +1,6 @@
+@TipoPagosService_HostAddress = http://localhost:5174
+
+GET {{TipoPagosService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
