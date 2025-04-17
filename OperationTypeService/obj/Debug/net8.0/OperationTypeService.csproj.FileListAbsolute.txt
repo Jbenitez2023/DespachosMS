@@ -140,3 +140,4 @@ C:\WEB\DespachosMs\OperationTypeService\obj\Debug\net8.0\refint\OperationTypeSer
 C:\WEB\DespachosMs\OperationTypeService\obj\Debug\net8.0\OperationTypeService.pdb
 C:\WEB\DespachosMs\OperationTypeService\obj\Debug\net8.0\OperationTypeService.genruntimeconfig.cache
 C:\WEB\DespachosMs\OperationTypeService\obj\Debug\net8.0\ref\OperationTypeService.dll
+C:\WEB\DespachosMs\OperationTypeService\obj\Debug\net8.0\OperationTypeService.sourcelink.json

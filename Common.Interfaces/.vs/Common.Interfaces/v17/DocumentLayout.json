@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WEB\\DespachosMs\\Common.Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93964980-6EC4-476D-97DD-00A0683B5183}|Common.Interfaces.csproj|c:\\web\\despachosms\\common.interfaces\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93964980-6EC4-476D-97DD-00A0683B5183}|Common.Interfaces.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93964980-6EC4-476D-97DD-00A0683B5183}|Common.Interfaces.csproj|c:\\web\\despachosms\\common.interfaces\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93964980-6EC4-476D-97DD-00A0683B5183}|Common.Interfaces.csproj|solutionrelative:interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\Common.Interfaces\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\WEB\\DespachosMs\\Common.Interfaces\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T21:19:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\Common.Interfaces\\Interfaces\\ICRUD.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICRUD.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\Common.Interfaces\\Interfaces\\ICRUD.cs",
+              "RelativeToolTip": "Interfaces\\ICRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:40:49.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

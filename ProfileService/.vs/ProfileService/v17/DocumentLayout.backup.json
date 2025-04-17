@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WEB\\DespachosMs\\ProfileService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\repositories\\profileservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:repositories\\profileservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\profileservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:profileservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|c:\\web\\despachosms\\profileservice\\repositories\\iprofileservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE53DFD-6A22-4C2F-B140-F29E097DAA8F}|ProfileService.csproj|solutionrelative:repositories\\iprofileservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:18:05.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:17:09.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileService.http",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\ProfileService.http",
+              "RelativeDocumentMoniker": "ProfileService.http",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\ProfileService.http",
+              "RelativeToolTip": "ProfileService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-24T10:17:07.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-24T10:14:15.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileServiceRepository.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\Repositories\\ProfileServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProfileServiceRepository.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\Repositories\\ProfileServiceRepository.cs",
+              "RelativeToolTip": "Repositories\\ProfileServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:11:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IprofileServiceRepository.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\ProfileService\\Repositories\\IprofileServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IprofileServiceRepository.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\ProfileService\\Repositories\\IprofileServiceRepository.cs",
+              "RelativeToolTip": "Repositories\\IprofileServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:11:47.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

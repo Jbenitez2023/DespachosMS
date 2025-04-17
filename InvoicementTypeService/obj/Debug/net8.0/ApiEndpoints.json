@@ -47,15 +47,15 @@
   },
   {
     "ContainingType": "InvoicementTypeService.Controllers.InvoicementTypeController",
-    "Method": "Get",
-    "RelativePath": "api/v1/InvoicementType/{id}",
-    "HttpMethod": "GET",
+    "Method": "Put",
+    "RelativePath": "api/v1/InvoicementType",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
+        "Name": "value",
+        "Type": "InvoicementTypeService.Dtos.InvoicementTypeResponseDto",
         "IsRequired": true
       }
     ],
@@ -73,20 +73,15 @@
   },
   {
     "ContainingType": "InvoicementTypeService.Controllers.InvoicementTypeController",
-    "Method": "Put",
+    "Method": "Get",
     "RelativePath": "api/v1/InvoicementType/{id}",
-    "HttpMethod": "PUT",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "InvoicementTypeService.Dtos.InvoicementTypeResponseDto",
-        "IsRequired": true
-      },
-      {
         "Name": "id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

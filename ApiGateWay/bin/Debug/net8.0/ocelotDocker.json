@@ -1,0 +1,289 @@
+{
+  "Routes": [
+    { //api/v1/Clients
+      "DownstreamPathTemplate": "/api/v1/Clients/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "client-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Clients/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Clients",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "client-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Clients",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { //OperationType
+      "DownstreamPathTemplate": "/api/v1/OperationType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "operationtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/OperationType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/OperationType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "operationtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/OperationType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { //PaymentType
+      "DownstreamPathTemplate": "/api/v1/PayType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "tipopago-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/PayType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/PayType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "tipopago-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/PayType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { ///api/v1/InvoicementStatus
+      "DownstreamPathTemplate": "/api/v1/InvoicementStatus/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "invoicementstatus-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementStatus/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/InvoicementStatus",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "invoicementstatus-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementStatus",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { ///api/v1/InvoicementType
+      "DownstreamPathTemplate": "/api/v1/InvoicementType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "invoicementtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/InvoicementType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "invoicementtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { ///api/AccountingConcept
+      "DownstreamPathTemplate": "/api/v1/AccountingConcept/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountingtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/AccountingConcept/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/AccountingConcept",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountingtype-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/AccountingConcept",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { //Users
+      "DownstreamPathTemplate": "/api/v1/user/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "user-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/users/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/user",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "user-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/users",
+      "UpstreamHttpMethod": [ "Get", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/User/UserValidation",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "user-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/users/UserValidation",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    { ///api/v1/Profile
+      "DownstreamPathTemplate": "/api/v1/Profile/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "profile-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Profile/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Profile",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "profile-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Profile",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    { ///api/v1/Dispatch
+      "DownstreamPathTemplate": "/api/v1/Dispatch/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "dispatch-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Dispatch/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Dispatch",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "dispatch-service",
+          "Port": 8080
+        }
+      ],
+      "UpstreamPathTemplate": "/Dispatch",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:9000"
+  }
+}

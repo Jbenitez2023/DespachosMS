@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\repositories\\iaccountingconceptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:repositories\\iaccountingconceptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\repositories\\accountingconceptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:repositories\\accountingconceptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\dtos\\accountingconceptrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:dtos\\accountingconceptrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\data\\accountingconceptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:data\\accountingconceptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|c:\\web\\despachosms\\accountingconceptservice\\accountingconceptservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8918239-E269-4C41-ABD8-6B996ECB50FD}|AccountingconceptService.csproj|solutionrelative:accountingconceptservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +51,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountingConceptRepository.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Repositories\\IAccountingConceptRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountingConceptRepository.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Repositories\\IAccountingConceptRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountingConceptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:38:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountingConceptRepository.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Repositories\\AccountingConceptRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountingConceptRepository.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Repositories\\AccountingConceptRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountingConceptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:38:29.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountingConceptRequestDto.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Dtos\\AccountingConceptRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AccountingConceptRequestDto.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Dtos\\AccountingConceptRequestDto.cs",
+              "RelativeToolTip": "Dtos\\AccountingConceptRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:38:20.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T20:36:16.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperProfile.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:34:17.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountingConceptContext.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Data\\AccountingConceptContext.cs",
+              "RelativeDocumentMoniker": "Data\\AccountingConceptContext.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\Data\\AccountingConceptContext.cs",
+              "RelativeToolTip": "Data\\AccountingConceptContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:30:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountingconceptService",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\AccountingconceptService\\AccountingconceptService.csproj",
+              "RelativeDocumentMoniker": "AccountingconceptService.csproj",
+              "ToolTip": "C:\\WEB\\DespachosMs\\AccountingconceptService\\AccountingconceptService.csproj",
+              "RelativeToolTip": "AccountingconceptService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T20:20:30.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

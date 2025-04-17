@@ -1,0 +1,235 @@
+{
+  "Routes": [
+    { //api/v1/Clients
+      "DownstreamPathTemplate": "/api/v1/Clients/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8001
+        }
+      ],
+      "UpstreamPathTemplate": "/Clients/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Clients",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8001
+        }
+      ],
+      "UpstreamPathTemplate": "/Clients",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { //OperationType
+      "DownstreamPathTemplate": "/api/v1/OperationType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+        }
+      ],
+      "UpstreamPathTemplate": "/OperationType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/OperationType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+        }
+      ],
+      "UpstreamPathTemplate": "/OperationType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { //PaymentType
+      "DownstreamPathTemplate": "/api/v1/PayType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ],
+      "UpstreamPathTemplate": "/PayType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/PayType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ],
+      "UpstreamPathTemplate": "/PayType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { ///api/v1/InvoicementStatus
+      "DownstreamPathTemplate": "/api/v1/InvoicementStatus/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8004
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementStatus/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/InvoicementStatus",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8004
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementStatus",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { ///api/v1/InvoicementType
+      "DownstreamPathTemplate": "/api/v1/InvoicementType/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8005
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementType/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/InvoicementType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8005
+        }
+      ],
+      "UpstreamPathTemplate": "/InvoicementType",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { ///api/AccountingConcept
+      "DownstreamPathTemplate": "/api/v1/AccountingConcept/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8006
+        }
+      ],
+      "UpstreamPathTemplate": "/AccountingConcept/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/AccountingConcept",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8006
+        }
+      ],
+      "UpstreamPathTemplate": "/AccountingConcept",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { //Users
+      "DownstreamPathTemplate": "/api/v1/user/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8007
+        }
+      ],
+      "UpstreamPathTemplate": "/users/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/user",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8007
+        }
+      ],
+      "UpstreamPathTemplate": "/users",
+      "UpstreamHttpMethod": [ "Get", "POST", "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/User/UserValidation",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8007
+        }
+      ],
+      "UpstreamPathTemplate": "/users/UserValidation",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    { ///api/v1/Profile
+      "DownstreamPathTemplate": "/api/v1/Profile/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8008
+        }
+      ],
+      "UpstreamPathTemplate": "/Profile/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Profile",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8008
+        }
+      ],
+      "UpstreamPathTemplate": "/Profile",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    { ///api/v1/Dispatch
+      "DownstreamPathTemplate": "/api/v1/Dispatch/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8009
+        }
+      ],
+      "UpstreamPathTemplate": "/Dispatch/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Dispatch",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8009
+        }
+      ],
+      "UpstreamPathTemplate": "/Dispatch",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:9000"
+  }
+}
