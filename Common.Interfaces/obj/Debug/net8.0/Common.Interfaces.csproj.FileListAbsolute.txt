@@ -1,0 +1,12 @@
+C:\WEB\DespachosMs\Common.Interfaces\bin\Debug\net8.0\Common.Interfaces.deps.json
+C:\WEB\DespachosMs\Common.Interfaces\bin\Debug\net8.0\Common.Interfaces.dll
+C:\WEB\DespachosMs\Common.Interfaces\bin\Debug\net8.0\Common.Interfaces.pdb
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.AssemblyInfoInputs.cache
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.AssemblyInfo.cs
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.csproj.CoreCompileInputs.cache
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.sourcelink.json
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.dll
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\refint\Common.Interfaces.dll
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\Common.Interfaces.pdb
+C:\WEB\DespachosMs\Common.Interfaces\obj\Debug\net8.0\ref\Common.Interfaces.dll

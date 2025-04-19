@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WEB\\DespachosMs\\DispatchService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|c:\\web\\despachosms\\dispatchservice\\data\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|solutionrelative:data\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|c:\\web\\despachosms\\dispatchservice\\controllers\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|solutionrelative:controllers\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|c:\\web\\despachosms\\dispatchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4DC5-968D-4E9C-A8DF-7591AD98C5E1}|DispatchService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\DispatchService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\DispatchService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T10:32:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DispatchController.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\DispatchService\\Controllers\\DispatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DispatchController.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\DispatchService\\Controllers\\DispatchController.cs",
+              "RelativeToolTip": "Controllers\\DispatchController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T10:31:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\WEB\\DespachosMs\\DispatchService\\Data\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Data\\KafkaProducer.cs",
+              "ToolTip": "C:\\WEB\\DespachosMs\\DispatchService\\Data\\KafkaProducer.cs",
+              "RelativeToolTip": "Data\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:46:48.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

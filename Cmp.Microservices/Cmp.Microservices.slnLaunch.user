@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\AccountingconceptService\\AccountingconceptService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ClientService\\ClientService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\InvoicementTypeService\\InvoicementTypeService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\InvoicmentStatusService\\InvoicmentStatusService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\OperationTypeService\\OperationTypeService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\TipoPagosService\\TipoPagosService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\UserService\\UserService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ProfileService\\ProfileService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

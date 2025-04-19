@@ -138,3 +138,6 @@ C:\WEB\DespachosMs\ClientService\obj\Debug\net8.0\refint\ClientService.dll
 C:\WEB\DespachosMs\ClientService\obj\Debug\net8.0\ClientService.pdb
 C:\WEB\DespachosMs\ClientService\obj\Debug\net8.0\ClientService.genruntimeconfig.cache
 C:\WEB\DespachosMs\ClientService\obj\Debug\net8.0\ref\ClientService.dll
+C:\WEB\DespachosMs\ClientService\bin\Debug\net8.0\AutoMapper.dll
+C:\WEB\DespachosMs\ClientService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\WEB\DespachosMs\ClientService\obj\Debug\net8.0\ClientService.sourcelink.json

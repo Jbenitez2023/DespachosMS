@@ -140,3 +140,4 @@ C:\WEB\DespachosMs\InvoicmentStatusService\obj\Debug\net8.0\refint\InvoicmentSta
 C:\WEB\DespachosMs\InvoicmentStatusService\obj\Debug\net8.0\InvoicmentStatusService.pdb
 C:\WEB\DespachosMs\InvoicmentStatusService\obj\Debug\net8.0\InvoicmentStatusService.genruntimeconfig.cache
 C:\WEB\DespachosMs\InvoicmentStatusService\obj\Debug\net8.0\ref\InvoicmentStatusService.dll
+C:\WEB\DespachosMs\InvoicmentStatusService\obj\Debug\net8.0\InvoicmentStatusService.sourcelink.json

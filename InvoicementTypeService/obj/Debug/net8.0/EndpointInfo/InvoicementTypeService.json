@@ -87,24 +87,30 @@
             }
           }
         }
-      }
-    },
-    "/api/v1/InvoicementType/{id}": {
-      "get": {
+      },
+      "put": {
         "tags": [
           "InvoicementType"
         ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
+              }
             }
           }
-        ],
+        },
         "responses": {
           "200": {
             "description": "OK",
@@ -127,8 +133,10 @@
             }
           }
         }
-      },
-      "put": {
+      }
+    },
+    "/api/v1/InvoicementType/{id}": {
+      "get": {
         "tags": [
           "InvoicementType"
         ],
@@ -138,29 +146,11 @@
             "in": "path",
             "required": true,
             "schema": {
-              "type": "string"
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/InvoicementTypeResponseDto"
-              }
-            }
-          }
-        },
         "responses": {
           "200": {
             "description": "OK",

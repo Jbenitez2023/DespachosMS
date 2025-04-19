@@ -140,3 +140,4 @@ C:\WEB\DespachosMs\AccountingconceptService\obj\Debug\net8.0\refint\Accountingco
 C:\WEB\DespachosMs\AccountingconceptService\obj\Debug\net8.0\AccountingconceptService.pdb
 C:\WEB\DespachosMs\AccountingconceptService\obj\Debug\net8.0\AccountingconceptService.genruntimeconfig.cache
 C:\WEB\DespachosMs\AccountingconceptService\obj\Debug\net8.0\ref\AccountingconceptService.dll
+C:\WEB\DespachosMs\AccountingconceptService\obj\Debug\net8.0\AccountingconceptService.sourcelink.json

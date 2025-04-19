@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthorizationController",
+    "Method": "Login",
+    "RelativePath": "api/Authorization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthenticationService.Models.UserData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
