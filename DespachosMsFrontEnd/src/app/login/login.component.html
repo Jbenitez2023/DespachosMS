@@ -1,0 +1,30 @@
+
+<div  class="login-background">
+    <div class="overlay"></div>
+    <div class="card position-absolute top-50 start-50 translate-middle loginform" >
+        <div class="card-body center">
+            <div class="input-group mb-3">
+                <h5 class="card-title mx-auto p-2">LOGIN</h5>
+            </div>
+            <form [formGroup]="loginForm" (ngSubmit)="login()">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Username" formControlName="username" required />
+                  </div>
+                  <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Password" formControlName="password" required />
+                  </div>
+                  <div class="input-group mb-3 ">
+                    <button type="submit" class="btn btn-primary mx-auto p-2">Ingresar</button>
+                  </div>
+                  <div class="input-group mb-3 ">
+                    <div class="form-check mx-auto p-2">
+                        <input class="form-check-input" type="checkbox" formControlName="rememberMe">
+                        <label class="form-check-label" for="checkDefault">
+                         Recordarme
+                        </label>
+                      </div>
+                  </div>
+            </form>
+        </div>
+      </div>
+</div>
