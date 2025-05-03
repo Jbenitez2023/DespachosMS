@@ -63,12 +63,13 @@ namespace UserService.Controllers
 
                 var tokenGenerator = new TokenGenerator();
                 string token = tokenGenerator.GenerateJwtToken(data.UserName);
-                
-                return Ok(token);
+                var result = new { token = token };
+                return Ok(result);
             }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+                var result = new { error = ex.Message };
+                return StatusCode(StatusCodes.Status500InternalServerError, result);
             }
         }
 
