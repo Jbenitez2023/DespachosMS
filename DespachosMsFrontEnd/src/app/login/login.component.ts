@@ -1,7 +1,10 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, ReactiveFormsModule } from '@angular/forms';
-
+import { UsersService } from '../services/users/users.service';
+import { Token } from '../models/token.model';
+import { ToastrService } from 'ngx-toastr';
+import { Router } from '@angular/router'
 @Component({
   selector: 'app-login',
   standalone: true,
@@ -15,9 +18,8 @@ export class LoginComponent implements OnInit  {
   rememberedUsername:string|null = "";
   rememberedPassword:string|null = "";
   remember:boolean|null = false;
-  constructor(private fb: FormBuilder) {}
-
-
+  token: any[] = [];
+  constructor(private router: Router,private toastr:ToastrService, private fb: FormBuilder,private loginService: UsersService) {}
 
   ngOnInit(): void {
 
@@ -29,7 +31,6 @@ export class LoginComponent implements OnInit  {
             localStorage.getItem('remember') != null){
             this.remember =true;
         }
-        
     }
 
     this.loginForm = this.fb.group({
@@ -40,7 +41,9 @@ export class LoginComponent implements OnInit  {
   }
 
   login(): void {
+    
     const { username, password, rememberMe } = this.loginForm.value;
+    const credentials = this.loginForm.value;
     if (rememberMe) {
       localStorage.setItem('rememberedPassword', password);
       localStorage.setItem('rememberedUsername', username);
@@ -50,6 +53,30 @@ export class LoginComponent implements OnInit  {
       localStorage.removeItem('rememberedUsername');
       localStorage.removeItem('remember');
     }
+    
+    this.loginService.login(credentials).subscribe({
+      next: data => {
+        var tokenReceived = new Token();
+        tokenReceived = this.transformaDataToToken(data)
+        this.guardaToken(tokenReceived);
+        this.router.navigate(['/intern/dashboard']);
+      },
+      error: err => {
+        this.toastr.error("Datos incorrectos!");
+      }
+    });
+  }
+
+  guardaToken(objectToken : Token){
+    sessionStorage.setItem("token",objectToken.token);   
+   this.toastr.success("Datos correctos!");
+  }
+
+  transformaDataToToken(data:any[]){
+    const firstItem = data[0];
+    const token = new Token();
+    token.token = firstItem;
+    return token;
   }
 
 }

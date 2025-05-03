@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TipoPagosService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+248892addd1f3918a5d4037bb6f4d9f7e068fd0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e37f0eb003123c9a4a401dbf6c903490f40d51")]
 [assembly: System.Reflection.AssemblyProductAttribute("TipoPagosService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TipoPagosService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
